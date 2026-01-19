@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@astrojs/vue": "^5.1.4",
+    "@google/generative-ai": "^0.24.1",
     "@tailwindcss/vite": "^4.1.18",
     "astro": "^5.16.11",
     "tailwindcss": "^4.1.18",
